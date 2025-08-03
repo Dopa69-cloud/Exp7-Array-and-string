@@ -8,8 +8,7 @@ VARIBLE DESCRIPTION
 | i             | int        | Loop counter used to traverse the array         |
 
 
-Algorithm (Step-by-step):
-
+*ALGORITHM* (Step-by-step):
 1.Initialize the array with elements, either by input or hardcoding.
 2.Set the value of n (the size of the array).
 3.Use a loop (for/while) to iterate from index 0 to n-1.
