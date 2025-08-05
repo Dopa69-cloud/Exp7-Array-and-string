@@ -16,8 +16,8 @@ VARIBLE DESCRIPTION
 5.Print each element using cout.
 
 
-✅ 2. Algorithm
-🔷 Part A: Array Input, Sum, Average, Max, Min
+2. Algorithm
+3. Part A: Array Input, Sum, Average, Max, Min
 
 Start the program.
 Prompt the user to enter the number of elements n.
@@ -31,20 +31,20 @@ Update min if current element is smaller.
 Compute average: avg = (float)sum / n.
 Display sum, avg, max, and min.
 
-🔷 Part B: String Initialization
+ Part B: String Initialization
 
 Initialize str1 using direct assignment ("Hello").
 Initialize str2 using constructor syntax ("World").
 Concatenate str1 and str2 into str3.
 Display all three strings.
 
-🔷 Part C: String Reversal
+ Part C: String Reversal
 
 Copy str3 into rev.
 Reverse rev using the reverse() function.
 Print the reversed string.
 
-🔷 Part D: Palindrome Checking
+Part D: Palindrome Checking
 
 Prompt the user to enter a string check.
 Copy check into reversedCheck.
